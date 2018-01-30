@@ -1,4 +1,4 @@
 git add .
-got commit -m "SVT"
+git commit -m "SVT"
 git push
  https://jackyhuangster.github.io/SVT/
